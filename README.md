@@ -44,6 +44,7 @@ I enjoy building reliable, scalable, and user-friendly mobile applications.
 
 - [Daily Expense Tracker](https://github.com/phyotd/my_daily_expense)
 - [Portfolio Website](https://github.com/phyotd/my_portfolio)
+- [Kitchen Display System](https://github.com/phyotd/kitchen_kds)
 
 ### 📫 Connect With Me
 
