@@ -21,7 +21,8 @@ I enjoy building reliable, scalable, and user-friendly mobile applications.
 
 **Mobile Development**
 - Flutter, Dart
-- Provider, GetX
+- React Native
+- Provider, GetX, Riverpod
 - GoRouter
 - Firebase
 
@@ -50,5 +51,5 @@ I enjoy building reliable, scalable, and user-friendly mobile applications.
 ### 📫 Connect With Me
 
 - GitHub: https://github.com/phyotd
-- Portfolio: https://my-portfolio-git-main-phyo-td.vercel.app/
+- Portfolio: phyo-thandar.vercel.app
 - LinkedIn: https://www.linkedin.com/in/phyo-thandar-643736170/
