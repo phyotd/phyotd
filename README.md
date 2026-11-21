@@ -51,5 +51,5 @@ I enjoy building reliable, scalable, and user-friendly mobile applications.
 ### 📫 Connect With Me
 
 - GitHub: https://github.com/phyotd
-- Portfolio: phyo-thandar.vercel.app
+- Portfolio: https://phyo-thandar.vercel.app
 - LinkedIn: https://www.linkedin.com/in/phyo-thandar-643736170/
